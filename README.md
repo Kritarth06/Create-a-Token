@@ -12,7 +12,8 @@ Token Details: The contract stores important details about the token, including 
 
 **Getting Started**
 
-To use the MyToken contract in your project, follow these steps: Clone the repository to your local machine:
+To use the MyToken contract in your project, follow these steps: Clone the repository to your local machine: 
+https://github.com/Kritarth06/Create-a-Token/blob/main/MyToken.sol
 
 **Executing program**
 
